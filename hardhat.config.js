@@ -58,7 +58,7 @@ module.exports = {
       },
     },
     coinexTest: {
-      url: 'http://47.75.171.39:8545/',
+      url: 'http://127.0.0.1:8545/',
       chainId: 53,
       hardfork: 'berlin',
       blockGasLimit: 9500000,
