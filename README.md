@@ -1,4 +1,4 @@
-#IFPool Staking Protocol
+# IFPool Staking Protocol
 IFPool is an open source Staking Protocol for CSC (CoinEx Smart Chain) node staking. current version 1.0.
 
 ## Document
