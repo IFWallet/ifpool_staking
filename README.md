@@ -2,7 +2,7 @@
 IFPool is an open source Staking Protocol for CSC (CoinEx Smart Chain) node staking. current version 1.0.
 
 ## Document
-IFPool supports CSC node staking (earn CET by staking CET) and IFT staking (staking IFT to earn CET - the platform profits)
+IFPool supports CSC node staking (staking CET to mining CET) and IFT staking (staking IFT to earn CET - the platform profits)
 
 Please visit [https://ifpool.io](https://ifpool.io) to use App.
 
