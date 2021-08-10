@@ -16,10 +16,12 @@ Waiting for Audit in a soon future. The Audit Report will upload to here when it
 
 Contract are deployed to CSC(CoinEx Smart Chain):
 
+```
 IFPool: 0x633acb5ca22c5851b4278B062AA6B567791F2C5B
 IFT Vault: 0x918F0ec3d0cdb94e39fCad6dE40365b5f85c699A
 IFT Staker: 0xDfEcB6584366f3111e930fEf5A3E921896C90d65
 IFT Token: 0x1D7C98750A47762FA8B45c6E3744aC6704F44698
+```
 
 ## How it works?
 User staking CET to IFPool, then IFPool will create an delegate contract for users, which staking to nodes, and record users position, this will using to calculate user's rewards. Staking CET will get CET from CSC nodes and get IFT from IFPool. Protocol will charge 10% from user's rewards as platform profits.
