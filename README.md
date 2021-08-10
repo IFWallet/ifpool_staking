@@ -1,5 +1,5 @@
 # IFPool Staking Protocol
-IFPool is an open source Staking Protocol for CSC (CoinEx Smart Chain) node staking. current version 1.0.
+IFPool is an open source Staking Protocol for [https://coinex.org](CSC) (CoinEx Smart Chain) node staking. current version 1.0.
 
 ## Document
 IFPool supports CSC node staking (staking CET to mining CET) and IFT staking (staking IFT to earn CET - the platform profits)
@@ -14,7 +14,7 @@ The source code included is the production version of the protocol. Eventual cha
 ## Audit Report
 Waiting for Audit in a soon future. The Audit Report will upload to here when it's done.
 
-Contract are deployed to CSC(CoinEx Smart Chain):
+Contract are deployed to CSC(CoinEx Smart Chain), you can check at [browser](https://coinex.net):
 
 ```
 IFPool: 0x633acb5ca22c5851b4278B062AA6B567791F2C5B
