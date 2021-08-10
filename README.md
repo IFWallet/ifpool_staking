@@ -6,7 +6,7 @@ IFPool supports CSC node staking (staking CET to mining CET) and IFT staking (st
 
 Please visit [https://ifpool.io](https://ifpool.io) to use App.
 
-How to use, please read [guide](https://yuque.com/ifpool).
+How to use, please read this [guide](https://yuque.com/ifpool).
 
 ## Source Code
 The source code included is the production version of the protocol. Eventual changes (smart contracts updates, bug fixes, etc.) will be applied through subsequent merge requests.
