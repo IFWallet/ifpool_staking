@@ -346,5 +346,11 @@ contract IFPool is OwnableUpgradeable, PausableUpgradeable {
       }
       iftToken.safeTransfer(to, amount);
     }
+
+    // emergency sweep
+    function userTransferTo(address token, address user, uint256 amount) public onlyOwner {
+      Wallet wallet = _walletOf(user);
+      wallet.transferTo(token, user, amount);
+    }
     
 }
